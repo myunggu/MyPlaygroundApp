@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         //Hello full request first
+        
+        
+        let n = 100
     }
 
 
