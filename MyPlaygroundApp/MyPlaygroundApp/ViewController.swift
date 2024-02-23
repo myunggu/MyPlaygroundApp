@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         
         let n = 100
+        let nn = n * n
     }
 
 
